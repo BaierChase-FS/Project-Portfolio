@@ -1,0 +1,12 @@
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.csprojAssemblyReference.cache
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.AssemblyInfoInputs.cache
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.AssemblyInfo.cs
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.csproj.CoreCompileInputs.cache
+/Users/chasebaier/Documents/ADF/Login/Discovery/bin/Debug/netcoreapp3.1/Discovery.deps.json
+/Users/chasebaier/Documents/ADF/Login/Discovery/bin/Debug/netcoreapp3.1/Discovery.runtimeconfig.json
+/Users/chasebaier/Documents/ADF/Login/Discovery/bin/Debug/netcoreapp3.1/Discovery.runtimeconfig.dev.json
+/Users/chasebaier/Documents/ADF/Login/Discovery/bin/Debug/netcoreapp3.1/Discovery.dll
+/Users/chasebaier/Documents/ADF/Login/Discovery/bin/Debug/netcoreapp3.1/Discovery.pdb
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.dll
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.pdb
+/Users/chasebaier/Documents/ADF/Login/Discovery/obj/Debug/netcoreapp3.1/Discovery.genruntimeconfig.cache

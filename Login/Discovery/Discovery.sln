@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discovery", "Discovery.csproj", "{BC9ECF68-8213-4B9B-9CA6-47415D434B56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9ECF68-8213-4B9B-9CA6-47415D434B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9ECF68-8213-4B9B-9CA6-47415D434B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9ECF68-8213-4B9B-9CA6-47415D434B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9ECF68-8213-4B9B-9CA6-47415D434B56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
